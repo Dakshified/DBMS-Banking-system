@@ -56,9 +56,9 @@ The system utilizes a modern, lightweight three-tier architecture that guarantee
 ```mermaid
 graph TD
     %% Styling
-    classDef client fill:#f9f,stroke:#333,stroke-width:2px;
-    classDef server fill:#bbf,stroke:#333,stroke-width:2px;
-    classDef db fill:#fbf,stroke:#333,stroke-width:2px;
+    classDef client fill:none,stroke:#007bff,stroke-width:2px;
+    classDef server fill:none,stroke:#6f42c1,stroke-width:2px;
+    classDef db fill:none,stroke:#28a745,stroke-width:2px;
 
     %% Nodes
     A[Browser Client / HTML5 / Bootstrap 5] -->|HTTP Requests / AJAX| B[Flask Application Server]
