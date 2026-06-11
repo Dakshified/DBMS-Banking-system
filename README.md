@@ -432,4 +432,4 @@ Developed as part of the **Database Management Systems (DBMS)** Laboratory Cours
 * **Tech Stack:** Python Flask, Bootstrap 5, MySQL-Connector-Python, BCrypt.
 
 ---
-<p align="center">Made with ❤️ for Academic Excellence in DBMS.</p>
+<p align="center">Made with ❤️ by Daksh Bhardwaj and team.</p>
